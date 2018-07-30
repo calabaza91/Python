@@ -1,0 +1,16 @@
+import turtle
+
+turtle.showturtle()
+turtle.pencolor('cornflower blue')
+turtle.forward(200)
+turtle.right(200)
+turtle.forward(200)
+turtle.left(70)
+turtle.forward(200)
+turtle.setheading(300)
+turtle.forward(50)
+turtle.heading()
+turtle.pensize(5)
+turtle.pencolor('papaya whip')
+turtle.circle(100)
+turtle.bgcolor('lavender')
